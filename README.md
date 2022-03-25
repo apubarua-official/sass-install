@@ -15,11 +15,11 @@ sass : File C:\Users\DCL\AppData\Roaming\npm\sass.ps1 cannot be loaded because r
 # After this line(Get-ExecutionPolicy -list) you see this in your terminal
 Scope ExecutionPolicy
 ----------------------
-MachinePolicy Undefined
-UserPolicy Undefined
-Process Undefined
-CurrentUser RemoteSigned
-LocalMachine Undefined
+1. MachinePolicy Undefined
+2. UserPolicy Undefined
+3. Process Undefined
+4. CurrentUser RemoteSigned
+5. LocalMachine Undefined
 
 #Then again command line
 ==========================
