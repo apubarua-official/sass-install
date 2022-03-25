@@ -30,6 +30,6 @@ Now, You successfully install Sass for your project.
 
 #Way-01: Using VS Code Extension: Live Sass Compiler(Rittik Dey)
 ==================================================================
-Step-01: Install 
-Step-02: Open Sass -> style.scss file and Below see watch Sass --> Click --> Watching and generater style.css file in your sass folder
+01. Install 
+02. Open Sass -> style.scss file and Below see watch Sass --> Click --> Watching and generater style.css file in your sass folder
 
