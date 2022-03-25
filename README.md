@@ -2,15 +2,15 @@
 
 #Way-01: Using Terminal
 ==============================
->> npm i -g sass
->> sass sass/style.scss css/style.css
+01. npm i -g sass
+02. sass sass/style.scss css/style.css
 
 #If found this related Error
 sass : File C:\Users\DCL\AppData\Roaming\npm\sass.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170. At line:1 char:1 + sass -watch sass/style.scss css/style.css + ~~~~ + CategoryInfo : SecurityError: (:) [], PSSecurityException + FullyQualifiedErrorId : UnauthorizedAccess
 
->> set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
->> Get-ExecutionPolicy
->> Get-ExecutionPolicy -list
+01. set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
+02. Get-ExecutionPolicy
+03. Get-ExecutionPolicy -list
 
 # After this line(Get-ExecutionPolicy -list) you see this in your terminal
 Scope ExecutionPolicy
