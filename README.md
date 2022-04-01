@@ -28,7 +28,7 @@ Scope ExecutionPolicy
 Now, You successfully install Sass for your project.
 ============================================================
 
-#Way-01: Using VS Code Extension: Live Sass Compiler(Rittik Dey)
+#Way-02: Using VS Code Extension: Live Sass Compiler(Rittik Dey)
 ==================================================================
 01. Install 
 02. Open Sass -> style.scss file and Below see watch Sass --> Click --> Watching and generater style.css file in your sass folder
